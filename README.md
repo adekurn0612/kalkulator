@@ -1,1 +1,1 @@
-# kalkulator
+Ig = akalerick
